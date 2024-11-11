@@ -1,16 +1,10 @@
-# crypto_app
+# Crypto_Tracker_withAPI
 
-A new Flutter project.
+On day 19 of the “30 Days 30 Apps” challenge, we will build a Crypto Tracker app that allows users to monitor the latest crypto prices in real-time. The app will leverage crypto APIs to display current price information, price changes, and value charts for popular cryptocurrencies.
 
-## Getting Started
+# Introduction Screens using Flutter
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Demo Video](C:\Users\ilham maulaa\Videos\Captures/to/video.mp4)](https://github.com/user-attachments/assets/773127ee-240e-4811-8f09-ea83ed008eb3
+)
